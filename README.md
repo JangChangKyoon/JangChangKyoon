@@ -46,7 +46,7 @@
 
 <h3>My Blogs</h3>
 <ul>
-  <li><a href="https://noproblemtocatchthemoon.tistory.com/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 공부한 내용을 정리하는 블로그 </i></li>
+  <li><a href="https://noproblemtocatchthemoon.tistory.com/"><b>공부한 내용을 정리하는 블로그 </i></li>
 
 
 ------------
