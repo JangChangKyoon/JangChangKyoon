@@ -27,7 +27,7 @@
 </div>
 </p>
 
-<h3>Open source projects</h3>
+<h3>My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -52,7 +52,7 @@
 
 <h3>My Blogs</h3>
 <ul>
-  <li><a href="https://noproblemtocatchthemoon.tistory.com/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
+  <li><a href="https://noproblemtocatchthemoon.tistory.com/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 공부한 내용을 정리하는 블로그 </i></li>
 
 
 ------------
