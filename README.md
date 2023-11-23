@@ -28,6 +28,7 @@
 </p>
 
 <h3>My projects</h3>
+
 <table>
   <thead align="center">
     <tr border: none;>
